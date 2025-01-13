@@ -1,6 +1,6 @@
 # Hi there, I'm Samridh Barthaval 👋
 
-I'm a Computer Engineering student, passionate about programming, data science, and web development. Currently working on various projects to enhance my skills and contribute to the tech community. 🚀
+I'm a Computer Engineering student, passionate about programming, data science, networking and web development. Currently working on various projects to enhance my skills. 🚀
 
 ## About Me
 - 🔭 I’m currently working on **game development** and **2D graphics** projects.
