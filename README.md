@@ -7,7 +7,7 @@ I'm a Computer Engineering student, passionate about programming, data science, 
 - 🌱 I’m currently learning **Machine Learning**, **Data Science**, and **AI** to pursue a career in top tech companies.
 - 👯 I’m looking to collaborate on projects related to **game development**, **AI**, and **web development**.
 - 💬 Ask me about **Java**, **Python**, **Web Development**, **Game Development**, and more!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samridh-barthaval-413372313/). | [Email](samridh2305@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samridh-barthaval-413372313/). | Email-samridh2305@gmail.com
 
 ## Skills & Technologies
 
