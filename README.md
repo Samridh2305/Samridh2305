@@ -12,9 +12,9 @@ I'm a Computer Engineering student, passionate about programming, data science, 
 ## Skills & Technologies
 
 - **Programming Languages**: Java, Python, JavaScript, C
-- **Web Development**: HTML, CSS, JavaScript,  Tailwind CSS, WordPress
+- **Web Development**: HTML, CSS, JavaScript,  Tailwind CSS, WordPress, ASP.NET
 - **Tools**: Git, IntelliJ IDEA, Visual Studio Code
-- **Databases**: MySQL
+- **Databases**: MySQL,SQL Server
 
 
 ## Projects
