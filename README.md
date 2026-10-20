@@ -1,4 +1,4 @@
-# Hi there, I'm Samridh Barthaval 👋
+# Hi there, I'm Samridh Barthaval 
 
 I'm a Master's student in Computer Science at **Memorial University of Newfoundland**, focused on building practical AI applications and solid backend systems. I like working end to end, from document processing and retrieval pipelines to APIs and the React frontends that sit on top of them.
 
@@ -11,7 +11,7 @@ I'm a Master's student in Computer Science at **Memorial University of Newfoundl
 - 🎯 Looking for opportunities in **AI/ML** and **software engineering**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samridh-barthaval-413372313/) or at samridh2305@gmail.com
 
-## Featured Projects
+## Featured Project
 
 ### 📊 SEC Sentinel
 An AI-powered system that downloads, parses, and analyzes SEC filings to track how a company's risk profile changes over time.
@@ -20,13 +20,6 @@ An AI-powered system that downloads, parses, and analyzes SEC filings to track h
 - **FastAPI** backend with a **React** dashboard for picking companies and filings, asking questions, and comparing filings side by side
 
 **Stack:** Python · FastAPI · PostgreSQL · pgvector · LLMs · React
-
-### 📈 Stock Trading Simulator (team project)
-A web app for simulated stock trading, built by a five-person team over agile sprints.
-- I own the **trading engine and market data**: the market data service, buy/sell market orders, and the trade history API
-- Added **limit and delayed orders**, plus multi-ticker support
-
-**Stack:** Node.js · Express · MongoDB · JavaScript
 
 ## Skills & Technologies
 
@@ -49,9 +42,3 @@ A web app for simulated stock trading, built by a five-person team over agile sp
 ## Let's Connect!
 
 I'm always happy to talk about AI, backend engineering, or interesting projects. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/samridh-barthaval-413372313/) or by [email](mailto:samridh2305@gmail.com).
-
-- [LinkedIn](https://www.linkedin.com/in/samridh-barthaval-413372313/)
-- [GitHub](https://github.com/Samridh2305)
-
-
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 😄
